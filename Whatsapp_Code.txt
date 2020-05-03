@@ -11,3 +11,7 @@ Author: Ganapathy
 4. Attachments(Image, audio, video) code.
 
 5. Hiding the last seen.
+
+6. Adding the Audio feature.
+
+7. Adding the video feature.
